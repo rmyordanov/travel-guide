@@ -1,2 +1,3 @@
-# travel-guide
-Gives information about the best places to visit in the country you have chosen for your vacation
+# travel-guide web app
+
+This travel guide web app is designed to help users plan and make the most out of their vacation. Once the user has chosen a destination, the app provides them with a wealth of information about the culture, sights, and popular places to visit. It also includes information about nightlife and entertainment options for the destination. The app covers a wide range of topics such as the best time to visit, local customs and etiquette, must-see landmarks and historical sites, popular restaurants and bars, and tips for traveling on a budget. The app also offers a personalized experience by providing curated recommendations based on the user's interests and budget. With this app, users can easily plan and navigate their trip, making it a stress-free and enjoyable experience.
